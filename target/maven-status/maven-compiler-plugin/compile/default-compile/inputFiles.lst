@@ -1,0 +1,8 @@
+/home/aisroy/Documents/TechPrimers/security-db/src/main/java/com/techprimers/security/securitydb/repository/UsersRepository.java
+/home/aisroy/Documents/TechPrimers/security-db/src/main/java/com/techprimers/security/securitydb/model/Users.java
+/home/aisroy/Documents/TechPrimers/security-db/src/main/java/com/techprimers/security/securitydb/service/CustomUserDetailsService.java
+/home/aisroy/Documents/TechPrimers/security-db/src/main/java/com/techprimers/security/securitydb/model/Role.java
+/home/aisroy/Documents/TechPrimers/security-db/src/main/java/com/techprimers/security/securitydb/config/SecurityConfiguration.java
+/home/aisroy/Documents/TechPrimers/security-db/src/main/java/com/techprimers/security/securitydb/SecurityDbApplication.java
+/home/aisroy/Documents/TechPrimers/security-db/src/main/java/com/techprimers/security/securitydb/model/CustomUserDetails.java
+/home/aisroy/Documents/TechPrimers/security-db/src/main/java/com/techprimers/security/securitydb/resource/HelloResource.java
